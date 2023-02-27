@@ -1,4 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Page 1](page-1.md)
+* [Information](information/README.md)
+  * [Commands](information/commands.md)
+  * [Changelog](information/changelog.md)
+  * [Features](information/features.md)
