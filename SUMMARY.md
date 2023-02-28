@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction \~ مقدمة](README.md)
+* [Introduction](README.md)
 * [🌷 News & Information](news-and-information/README.md)
   * [Commands](news-and-information/commands.md)
   * [Changelog](news-and-information/changelog.md)
